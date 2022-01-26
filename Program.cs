@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿int in_a()
+{
+    Console.WriteLine("Enter a");
+    return int.Parse(Console.ReadLine());
+}
