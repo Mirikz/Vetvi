@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿int in_a()
 {
     Console.WriteLine("Enter a");
@@ -20,4 +21,9 @@
 {
    return a - b;
 >>>>>>> diff
+=======
+﻿int mult(int a, int b)
+{
+   return a * b;
+>>>>>>> mult
 }
