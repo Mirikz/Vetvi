@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿int in_a()
 {
     Console.WriteLine("Enter a");
@@ -14,4 +15,9 @@
 {
    return a + b;
 >>>>>>> sum
+=======
+﻿int diff(int a, int b)
+{
+   return a - b;
+>>>>>>> diff
 }
