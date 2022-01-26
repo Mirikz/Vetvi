@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿int in_a()
 {
     Console.WriteLine("Enter a");
@@ -26,4 +27,9 @@
 {
    return a * b;
 >>>>>>> mult
+=======
+﻿double div(double a, double b)
+{
+   return a / b;
+>>>>>>> div
 }
